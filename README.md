@@ -14,12 +14,3 @@ Bem vindos ao meu repositório no GitHub. Aqui eu compartilho diversas das minha
 <p align="center">
     <img width="80%" src="assets/787.jpg">
 </p>
-
-### :watch::red_circle::airplane::green_circle: Oscar Lima Alfa
-* Se quiser bater um papo sobre músicas, aviões, relógios, carros, microcontroladores e coisas do tipo (totalmente interligadas) me chama no [insta]() ou me siga por lá simplesmente! :smiley:
-## Ãaaãhhh!! :zombie_man::zombie_woman:
-* Nem queira falar de Resident Evil, sem comentários para Capcom :heart: (*Observação: Algumas versões eu ainda não joguei (jogadas: 1 hd, 4, 6, 7, 2 remake), mas o contato com os remakes e remasters via YouTube ajudaram a perceber o quão boa é a franquia, com algumas ressalvas é claro.*) :grinning: 
-<p align="center">
-    <img width="50%" src="assets/need.GIF">
-</p>
-* Se topar uma partida de Dirt Rally estamos aí... um pouco de poeira, cascalho, lama e nuances de asfalto geralmente faz bem! Ou quem sabe um Forza ou Need for Speed das antigas... :racing_car:
